@@ -1,2 +1,4 @@
 # -Building-Chatbots
-A chatbot is an application to conduct an online chat conversation via text or text-to-speech.
+A chatbot is an application to conduct an online chat conversation via text or text-to-speech. We use chatbots a lot in customer interaction, marketing on social network sites, and instant messaging the client.
+spaCy is nothing but an open-source Python library for Natural Language Processing. The library is designed for developers to build interactive NLP applications, which can process and understand large volumes of text. ChatterBot is a Python library that is designed to produce automated responses to user inputs. It combines various ML algorithms to generate several types of responses. This enables developers to build chatbots using Python to talk to humans and deliver relevant responses.
+Building a chatbot involves several components, and the implementation can vary depending on the platform and programming language you choose. Below is a simple example of a console-based chatbot in Java
